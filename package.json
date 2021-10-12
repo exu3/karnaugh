@@ -1,0 +1,22 @@
+{
+  "name": "kmap-generator",
+  "version": "1.0.0",
+  "description": "Generate Karnaugh maps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eilla1/karnaugh.git"
+  },
+  "keywords": [
+    "karnaugh"
+  ],
+  "author": "@eilla1",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eilla1/karnaugh/issues"
+  },
+  "homepage": "https://github.com/eilla1/karnaugh#readme"
+}
