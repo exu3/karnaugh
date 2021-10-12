@@ -1,0 +1,2 @@
+# karnaugh
+k-map generator
